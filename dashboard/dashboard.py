@@ -113,4 +113,3 @@ st.pyplot(fig)
 
 st.caption("Copyright (c) Bangkit 2024")
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
